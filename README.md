@@ -1,6 +1,6 @@
 ### TempleStay Game 
 
-<img width="616" alt="image" src="https://user-images.githubusercontent.com/21952143/224538481-1de2055c-e598-48f4-82f8-37b9e70359ad.png">
+<img width="316" alt="image" src="https://user-images.githubusercontent.com/21952143/224538481-1de2055c-e598-48f4-82f8-37b9e70359ad.png">
 
 
 템플스테이 게임 UI 
