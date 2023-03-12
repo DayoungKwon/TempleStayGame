@@ -3,9 +3,9 @@
 템플스테이 게임 UI 
 next js 기반의 간단한 rpg 게임 
 
-폰트 : http://cactus.tistory.com/193
-Selector 등 라이브러리 : https://nostalgic-css.github.io/NES.css/
-이미지 도트화 : https://app.monopro.org/pixel/
+- 폰트 : http://cactus.tistory.com/193
+- Selector 등 라이브러리 : https://nostalgic-css.github.io/NES.css/
+- 이미지 도트화 : https://app.monopro.org/pixel/
 
 ### Getting Started
 
