@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "DungGeunMo";
+    font-style: normal;
+    font-weight: 100;
+    src: url("./DungGeunMo.ttf");
+  }
+
+  @font-face {
+    font-family: "PressStart2P";
+    font-style: normal;
+    font-weight: 100;
+    src: url("./PressStart2P-Regular.ttf");
+  }
+  
